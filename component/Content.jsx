@@ -2,7 +2,7 @@ import '../src/index.css'
 
 export default function Content(){
     return(
-        <container className = "content">
+        <main  className = "content">
              <h1 className = "content-heading">Fun Facts about React</h1>
              <ul className = "list-content">
                 <li className = "list-item-content">Was first released in 2013</li>
@@ -11,7 +11,7 @@ export default function Content(){
                 <li className = "list-item-content">Is maintained by Meta</li>
                 <li className = "list-item-content">Power thousand of entrprise apps, including mobile apps</li>
              </ul>
-        </container>
+        </main >
            
         
     )
