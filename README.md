@@ -1,3 +1,5 @@
+![React](https://img.shields.io/badge/React-18.2.0-blue)
+
 # ReactFactsPage
 This is a demo project built with **React**.
 
